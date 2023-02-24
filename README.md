@@ -1,2 +1,2 @@
-# Banco_de_Pr-cticas
+# Banco_de_Practicas_Plantillas_html
 Proyecto Sena
